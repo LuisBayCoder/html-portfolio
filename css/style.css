@@ -1,0 +1,72 @@
+.featurette-divider{
+padding-top:30px;
+}
+
+.section--med {
+    width: 100%;
+    min-height: 100px;
+    padding-bottom: 5px;
+}
+
+.section-content {
+    width: 100%;
+    display: block;
+    overflow: hidden;
+  }
+
+  .title--big {
+    font-size: 60px;
+  }
+
+  .title {
+    font-family: 'Quicksand',sans-serif;
+    font-weight: 300;
+    color: white;
+  }
+
+  .section-desc {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+.text {
+  font-family: 'Quicksand',sans-serif;
+  font-weight: 300;
+  color: white;
+  font-size: 15px;
+}
+
+.section {
+    text-align: center;
+  }
+
+  .social-icon {
+   
+  }
+  .container{
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+
+  .carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 1.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+    
+    background: rgba(6, 47, 79, 0.8);
+  }
+
+  #linkedin:hover{
+    background-color : blue;
+  }
+
+
+
+
+ 
+ 
